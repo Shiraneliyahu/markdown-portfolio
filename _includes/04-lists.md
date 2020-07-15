@@ -4,4 +4,4 @@
 - Food 
 - Shelter
   1. Vibe
-  2. Metrial
+  2. Material
